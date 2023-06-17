@@ -11,7 +11,6 @@ public class ValidarNumero {
 
         Scanner sc = new Scanner(System.in);
 
-
         int numero;
         do {
 
