@@ -6,14 +6,14 @@ import java.util.Scanner;
 public class CalculaSalario {
 
      /*
-    Pide un salario base por consola y su puesto por consola.
-    Calcula su sueldo sabiendo lo siguiente:
+        Pide un salario base por consola y su puesto por consola.
+        Calcula su sueldo sabiendo lo siguiente:
 
-    Si es vendedor, cobra 500 euros más.
-    Si es director, cobra 1000 euros más.
-    Si es conserge, cobra 100 euros más.
+        Si es vendedor, cobra 500 euros más.
+        Si es director, cobra 1000 euros más.
+        Si es conserge, cobra 100 euros más.
 
-    Utiliza un enumerado para almacenar los tipos de puestos de trabajo.
+        Utiliza un enumerado para almacenar los tipos de puestos de trabajo.
     */
 
     public static void main(String[] args) {

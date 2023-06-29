@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ecuacion2Grado {
 
      /*
-    Pide 3 números por consola y realiza una ecuación de segundo grado.
+        Pide 3 números por consola y realiza una ecuación de segundo grado.
     */
 
     public static void main(String[] args) {

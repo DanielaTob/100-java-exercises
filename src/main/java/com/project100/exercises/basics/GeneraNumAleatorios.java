@@ -4,7 +4,7 @@ package com.project100.exercises.basics;
 public class GeneraNumAleatorios {
 
     /*
-    Genera 10 numeros aleatorios entre 1 y 10
+        Genera 10 numeros aleatorios entre 1 y 10
     */
 
     public static void main(String[] args) {

@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Palindromo {
 
     /*
-    Pide una frase por consola e indica si es palindromo.
-    Es palindromo cuando se lee una frase igual de izquierda a derecha
-    que de derecha a izquierda. Por ejemplo alola
+        Pide una frase por consola e indica si es palindromo.
+        Es palindromo cuando se lee una frase igual de izquierda a derecha
+        que de derecha a izquierda. Por ejemplo alola
     */
 
     public static void main(String[] args) {

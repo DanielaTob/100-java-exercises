@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class Horas {
 
     /*
-    Pide un numero de segundos e indica cuantas horas, minutos
-    y segundos equivalen
+        Pide un numero de segundos e indica cuantas horas, minutos
+        y segundos equivalen
     */
 
     public static void main(String[] args) {

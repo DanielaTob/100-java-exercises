@@ -1,7 +1,8 @@
 package com.project100.exercises.basics;
 
 public class Pares {
-    /* Mostrar los numeros pares que hay entre el 1 y 10 (while y for)
+    /*
+        Mostrar los numeros pares que hay entre el 1 y 10 (while y for)
     */
     public static void main(String[] args) {
 

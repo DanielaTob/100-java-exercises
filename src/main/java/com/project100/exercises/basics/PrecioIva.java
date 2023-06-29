@@ -5,7 +5,8 @@ import java.util.Scanner;
 
 public class PrecioIva {
 
-    /* Pide un numero real que represente a un precio
+    /*
+        Pide un numero real que represente a un precio
         y muestra el precio con IVA. El IVA esde 21%
      */
 

@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class ConcatenaPalabras {
 
-    /* Pedir palabras al usuario hasta que el usuario escriba una cadena vacia.
+    /*
+        Pedir palabras al usuario hasta que el usuario escriba una cadena vacia.
         Muestra la concatenacion de esas oalabras al final
      */
 

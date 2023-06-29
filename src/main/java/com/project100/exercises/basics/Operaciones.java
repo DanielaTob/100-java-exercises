@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Operaciones {
 
     /*
-     Pida 2 numeros por consola y muestra su suma, resta, multiplicación y división
+        Pida 2 numeros por consola y muestra su suma, resta, multiplicación y división
      */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Bisiesto {
 
-    /* Pide un año por teclado (numero) e indica si es bisisesto o no.
+    /*
+        Pide un año por teclado (numero) e indica si es bisisesto o no.
        Es bisiesto cuando divisible entre 4 y no divisible entre 100 o si es divisible entre 400
      */
 

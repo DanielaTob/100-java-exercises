@@ -3,7 +3,8 @@ package com.project100.exercises.basics;
 import java.util.Scanner;
 
 public class RecorreCadena {
-    /* Pide una cadena por consola y muestra sus caracteres de uno a uno
+    /*
+        Pide una cadena por consola y muestra sus caracteres de uno a uno
      */
 
     public static void main(String[] args) {

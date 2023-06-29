@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 public class Menor {
 
-    /* Pide 2 numeros por consola e indica cual es el menor de los 2 numeros.
-    * En caso de que sean iguales, tambien lo debes indicar
+    /*
+        Pide 2 numeros por consola e indica cual es el menor de los 2 numeros.
+        En caso de que sean iguales, tambien lo debes indicar
     */
 
     public static void main(String[] args) {

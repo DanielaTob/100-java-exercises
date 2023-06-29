@@ -5,12 +5,12 @@ import java.util.Scanner;
 public class AdivinaNumero {
 
     /*
-    Vamos a jugar un pequeño juego.
-    Vamos a generar un numero aleatorio entre 1 y 100.
-    Debes pedir al usuario numeros que estén entre estos 2 numeros.
-    Si el usuario falla, debes indicarle si el numero que introdujo es mayor
-    o menor que el que debe acertar.
-    El programa termina cuando el usuario acierta. No hay limite de intentos.
+        Vamos a jugar un pequeño juego.
+        Vamos a generar un numero aleatorio entre 1 y 100.
+        Debes pedir al usuario numeros que estén entre estos 2 numeros.
+        Si el usuario falla, debes indicarle si el numero que introdujo es mayor
+        o menor que el que debe acertar.
+        El programa termina cuando el usuario acierta. No hay limite de intentos.
     */
 
     public static void main(String[] args) {

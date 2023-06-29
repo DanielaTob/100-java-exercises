@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class TablaMultiplicar {
 
-    /* Pedir un numero por consola y mostrar la tabla del 10
+    /*
+        Pedir un numero por consola y mostrar la tabla del 10
      */
 
     public static void main(String[] args) {

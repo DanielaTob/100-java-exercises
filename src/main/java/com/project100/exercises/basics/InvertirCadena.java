@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class InvertirCadena {
 
     /*
-    Pide una frase o palabra por consola e inviertela
+        Pide una frase o palabra por consola e inviertela
     */
 
     public static void main(String[] args) {

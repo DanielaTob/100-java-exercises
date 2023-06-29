@@ -3,9 +3,10 @@ package com.project100.exercises.basics;
 import java.util.Scanner;
 
 public class ValidarNumero {
-
-    /* Pide un numero por consola y valida que ese numero este entre 0 y 10.
+    /*
+        Pide un numero por consola y valida que ese numero este entre 0 y 10.
      */
+
 
     public static void main(String[] args) {
 
